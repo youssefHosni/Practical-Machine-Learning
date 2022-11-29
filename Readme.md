@@ -20,7 +20,7 @@ This the codes used in the series of practical articles on medium on various mac
 
 
 ## Deep Learning:
-* [Building Complex Models Using Keras Functional API]() [[Code]() | [Article]()]
+* [Building Complex Models Using Keras Functional API]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Building_Complex_Deep_Learning_Models_Using_Keras_Functional_API.ipynb) | [Article]()]
 
 
 
