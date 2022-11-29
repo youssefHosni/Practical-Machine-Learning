@@ -5,3 +5,5 @@ This the codes used in the series of practical articles on medium on various mac
 * How To Split Data Effectively for Your Data Science Project [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20To%20Split%20The%20Data%20Effectively%20for%20Your%20Data%20Science%20Project.ipynb) | [Article](https://pub.towardsai.net/how-to-split-the-data-effectively-for-your-data-science-project-a9cb6a387b70?sk=7036bbef95e24baeaa2f1a98afa33491) ]
 * How to Find the Optimal Number of Clusters Effectively [ [Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20to%20Find%20the%20Optimal%20Number%20of%20Clusters%20Effectively.ipynb) | [Article]() ]
 * Practical Guide to Boosting Algorithms In Machine Learning [[Code]() | [Article]()]
+* Building Complex Models Using Keras Functional API [[Code]() | [Article]()]
+
