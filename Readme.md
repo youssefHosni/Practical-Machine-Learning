@@ -15,24 +15,24 @@ This the codes used in the series of practical articles on medium on various mac
 ## Modeling 
 * [Brief Guide for Machine Learning Model Selection](https://medium.com/mlearning-ai/brief-guide-for-machine-learning-model-selection-a19a82f8bdcd?sk=f3fe7b646cfbc1b8818e6cd4a61814e5)
 
-## Supervised Machine Learning Modeling
+### Supervised Machine Learning Modeling
 
 * [Practical Guide to Support Vector Machine in Python]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Practical%20Guide%20to%20Support%20Vector%20Machines%20in%20Python%20.ipynb) | [Article](https://pub.towardsai.net/practical-guide-to-support-vector-machines-in-python-dc0e628d50bc?sk=3736c436ed9ec33011b453d852f53746)]
 
 * [Practical Guide to Boosting Algorithms In Machine Learning]() [[Code]() | [Article]()]
 
 
-## Unsupervised Machine Learning Modeling
+### Unsupervised Machine Learning Modeling
 * [Overview of Unsupervised Machine Learning Tasks & Applications](https://pub.towardsai.net/overview-of-unsupervised-machine-learning-tasks-applications-139db2239e2c?sk=26aa82893548ddc3c2916d4ee3c91d65)
 * [Practical Guide to Dimesnioality Reduction in Python]() [[Code](https://github.com/youssefHosni/Practical-Guide-to-ML-DL-Concepts/blob/main/practical-guide-to-dimesnioality-reduction-in-pyth.ipynb) | [Article](https://medium.com/mlearning-ai/practical-guide-to-dimesnioality-reduction-in-python-9da6c84ad8ee?sk=ba37d536c5b52d79d7df19064639d4a4)]
 * [How to Find the Optimal Number of Clusters Effectively]() [ [Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20to%20Find%20the%20Optimal%20Number%20of%20Clusters%20Effectively.ipynb) | [Article](https://pub.towardsai.net/stop-using-elbow-diagram-to-find-best-k-value-and-use-this-instead-568b13d77561?sk=d9456c70a04d6d5b020da45dcad5024f) ]
 
 
-## Deep Learning Modeling
+### Deep Learning Modeling
 * [Building Complex Models Using Keras Functional API]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Building_Complex_Deep_Learning_Models_Using_Keras_Functional_API.ipynb) | [Article](https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4?sk=85e11759a720c074c7bab9cc1b5d1d06)]
 * [A Quick Setup for Neural Networks Hyperparameters for Best Results](https://pub.towardsai.net/a-quick-setup-for-neural-networks-hyperparameters-for-best-results-3a5a446abb3a?sk=9c9f6bf03b6895dcd0112a34158a2785)
 
 ## Machine Learning Explainability
 * [Machine Learning Models Are No Longer A Black Box](https://medium.com/mlearning-ai/4-methods-to-unbox-the-machine-learning-models-black-box-8358a8bce3a6?sk=7c3f175a08a3f521b1cc77e9e9e429a3)
 
-
+## Model Deployment 
