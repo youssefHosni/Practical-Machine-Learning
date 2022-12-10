@@ -5,6 +5,8 @@ This the codes used in the series of practical articles on medium on various mac
 ## Data Preprocessing 
 * [How To Split Data Effectively for Your Data Science Project]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20To%20Split%20The%20Data%20Effectively%20for%20Your%20Data%20Science%20Project.ipynb) | [Article](https://pub.towardsai.net/how-to-split-the-data-effectively-for-your-data-science-project-a9cb6a387b70?sk=7036bbef95e24baeaa2f1a98afa33491) ]
 
+* [Brief Guide for Machine Learning Model Selection](https://medium.com/mlearning-ai/brief-guide-for-machine-learning-model-selection-a19a82f8bdcd?sk=f3fe7b646cfbc1b8818e6cd4a61814e5)
+
 
 ## Supervised Machine Learning:
 
