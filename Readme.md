@@ -6,7 +6,9 @@ This the codes used in the series of practical articles on medium on various mac
 * [End-to-End Machine Learning Workflow [Part 1]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-1-b5aa2e3d30e2?sk=2c0fa63e0cd3e09bc9329c1f20c63f1f)
 * [End-to-End Machine Learning Workflow [Part 2]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-2-e7b6d3fb1d53?sk=06cde2cb868ac46a1dd1e71064b76b05)
 
-## Data Preprocessing 
+## Data Collection 
+
+## Data Preprocessing & Feature Engineering 
 * [How To Split Data Effectively for Your Data Science Project]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20To%20Split%20The%20Data%20Effectively%20for%20Your%20Data%20Science%20Project.ipynb) | [Article](https://pub.towardsai.net/how-to-split-the-data-effectively-for-your-data-science-project-a9cb6a387b70?sk=7036bbef95e24baeaa2f1a98afa33491) ]
 * [Six Reasons Why Your Model Gives Bad Results](https://medium.com/mlearning-ai/six-reasons-why-your-model-give-bad-results-db2804f0da0e?sk=144ae1fe14011ae3a7eb5e8bc0d1f599)
 
