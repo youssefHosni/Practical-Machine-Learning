@@ -26,8 +26,8 @@ This the codes used in the series of practical articles on medium on various mac
 
 
 ## Deep Learning:
-* [Building Complex Models Using Keras Functional API]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Building_Complex_Deep_Learning_Models_Using_Keras_Functional_API.ipynb) | [Article]()]
-
+* [Building Complex Models Using Keras Functional API]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Building_Complex_Deep_Learning_Models_Using_Keras_Functional_API.ipynb) | [Article](https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4?sk=85e11759a720c074c7bab9cc1b5d1d06)]
+* [A Quick Setup for Neural Networks Hyperparameters for Best Results](https://pub.towardsai.net/a-quick-setup-for-neural-networks-hyperparameters-for-best-results-3a5a446abb3a?sk=9c9f6bf03b6895dcd0112a34158a2785)
 
 
 
