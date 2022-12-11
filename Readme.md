@@ -1,6 +1,5 @@
 # Machine Learning Practical Guide
-
-This the codes used in the series of practical articles on medium on various machine learning and deep learning topics:
+Practical machine learning notebook & articles covers the machine learning project life cycle:
 
 ## Machine Learning Project Life Cycle ##
 * [End-to-End Machine Learning Workflow [Part 1]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-1-b5aa2e3d30e2?sk=2c0fa63e0cd3e09bc9329c1f20c63f1f)
@@ -20,7 +19,6 @@ This the codes used in the series of practical articles on medium on various mac
 * [Practical Guide to Support Vector Machine in Python]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Practical%20Guide%20to%20Support%20Vector%20Machines%20in%20Python%20.ipynb) | [Article](https://pub.towardsai.net/practical-guide-to-support-vector-machines-in-python-dc0e628d50bc?sk=3736c436ed9ec33011b453d852f53746)]
 
 * [Practical Guide to Boosting Algorithms In Machine Learning]() [[Code]() | [Article]()]
-
 
 ### Unsupervised Machine Learning Modeling
 * [Overview of Unsupervised Machine Learning Tasks & Applications](https://pub.towardsai.net/overview-of-unsupervised-machine-learning-tasks-applications-139db2239e2c?sk=26aa82893548ddc3c2916d4ee3c91d65)
