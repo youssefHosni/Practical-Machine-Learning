@@ -1,4 +1,4 @@
-# Machine Learning Practical Guide
+# Practical Machine Learning 
 Practical machine learning notebook & articles covers the machine learning project life cycle.
 
 ## Overview of Machine Learning Project Life Cycle ##
