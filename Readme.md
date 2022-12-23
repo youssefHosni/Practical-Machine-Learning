@@ -29,6 +29,7 @@ Practical machine learning notebook & articles covers the machine learning proje
 ### Deep Learning Modeling
 * [Building Complex Models Using Keras Functional API]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Building_Complex_Deep_Learning_Models_Using_Keras_Functional_API.ipynb) | [Article](https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4?sk=85e11759a720c074c7bab9cc1b5d1d06)]
 * [A Quick Setup for Neural Networks Hyperparameters for Best Results](https://pub.towardsai.net/a-quick-setup-for-neural-networks-hyperparameters-for-best-results-3a5a446abb3a?sk=9c9f6bf03b6895dcd0112a34158a2785)
+* [Building A Recurrent Neural Network From Scratch In Python](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f?sk=3fcfd18bbb18fd280826c64b547f130e)
 
 ## Machine Learning Explainability
 * [Machine Learning Models Are No Longer A Black Box](https://medium.com/mlearning-ai/4-methods-to-unbox-the-machine-learning-models-black-box-8358a8bce3a6?sk=7c3f175a08a3f521b1cc77e9e9e429a3)
