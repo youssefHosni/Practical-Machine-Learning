@@ -16,7 +16,7 @@ git clone https://github.com/youssefHosni/Practical-Machine-Learning.git
 
 or for cloning via SSH use:
 ```bash
-git clone git@github.com:https-deeplearning-ai/machine-learning-engineering-for-production-public.git
+git clone git@github.com:youssefHosni/Practical-Machine-Learning.git
 ```
 
 If you are unsure which method to use for cloning, use the first one.
