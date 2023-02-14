@@ -6,7 +6,7 @@ Practical machine learning notebook & articles covers the machine learning proje
 * [End-to-End Machine Learning Workflow [Part 2]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-2-e7b6d3fb1d53?sk=06cde2cb868ac46a1dd1e71064b76b05)
 
 ## Setting Performance Baseline & Success Metrics
-* [How to Set Performance Baseline for Your Machine Learning Project Effectively?]()
+* [How to Set Performance Baseline for Your Machine Learning Project Effectively?](https://pub.towardsai.net/how-to-set-performance-baseline-for-your-machine-learning-project-effectively-5be7cffdd68d?sk=51fe014a4f7c7831b2163e4b972477f1)
 
 ## Data Collection 
 
