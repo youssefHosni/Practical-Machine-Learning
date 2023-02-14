@@ -21,7 +21,7 @@ Practical machine learning notebook & articles covers the machine learning proje
 
 * [Practical Guide to Support Vector Machine in Python]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Practical%20Guide%20to%20Support%20Vector%20Machines%20in%20Python%20.ipynb) | [Article](https://pub.towardsai.net/practical-guide-to-support-vector-machines-in-python-dc0e628d50bc?sk=3736c436ed9ec33011b453d852f53746)]
 
-* [Practical Guide to Boosting Algorithms In Machine Learning]() [[Code]() | [Article]()]
+* [Practical Guide to Boosting Algorithms In Machine Learning](https://pub.towardsai.net/practical-guide-to-boosting-algorithms-in-machine-learning-61c023107e12?sk=4924d002b480475afec71c900ab3b469) [[Code]() | [Article](https://pub.towardsai.net/practical-guide-to-boosting-algorithms-in-machine-learning-61c023107e12?sk=4924d002b480475afec71c900ab3b469)]
 
 ### Unsupervised Machine Learning Modeling
 * [Overview of Unsupervised Machine Learning Tasks & Applications](https://pub.towardsai.net/overview-of-unsupervised-machine-learning-tasks-applications-139db2239e2c?sk=26aa82893548ddc3c2916d4ee3c91d65)
