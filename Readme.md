@@ -34,6 +34,9 @@ Practical machine learning notebook & articles covers the machine learning proje
 * [A Quick Setup for Neural Networks Hyperparameters for Best Results](https://pub.towardsai.net/a-quick-setup-for-neural-networks-hyperparameters-for-best-results-3a5a446abb3a?sk=9c9f6bf03b6895dcd0112a34158a2785)
 * [Building A Recurrent Neural Network From Scratch In Python](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f?sk=3fcfd18bbb18fd280826c64b547f130e)
 
+## Model Evaluation 
+[Why Should You Not Completely Trust In Test Accuracy?](https://pub.towardsai.net/why-should-you-not-completely-trust-in-test-accuracy-b4a80398c599?sk=6e369f1328757e79052f8b389cb2adb5)
+
 ## Machine Learning Explainability
 * [Machine Learning Models Are No Longer A Black Box](https://medium.com/mlearning-ai/4-methods-to-unbox-the-machine-learning-models-black-box-8358a8bce3a6?sk=7c3f175a08a3f521b1cc77e9e9e429a3)
 
