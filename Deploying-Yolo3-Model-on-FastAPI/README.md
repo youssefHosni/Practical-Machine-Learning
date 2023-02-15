@@ -53,10 +53,6 @@ At this point, you will do all your libraries installation and work in this envi
  
 ### 2. Installing dependencies using PIP 
  
-Before proceeding, double check that you are currently on the `week1-ungraded-lab` directory, which includes the `requirements.txt` file. This file lists all the required dependencies and their respective versions. 
-
-If you are on a Mac M1 be sure to have installed Tensorflow and OpenCV as described in the [guide](./mac_m1.md) and deleted these libraries from the `requirements.txt` file.
-
 Now use the following command to install the required dependencies:
  
 ```bash
@@ -87,7 +83,7 @@ To stop jupyter lab once you are done with the lab just press `Ctrl + C` twice.
  
 ### And... that's it! Have fun deploying a Deep Learning model! :)
 
- 
+
 # 
 #
 # Method 2: Docker
