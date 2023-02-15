@@ -76,7 +76,7 @@ After execution, you will see some information printed on the terminal. Usually 
  
 Within Jupyter lab you should be in the same directory where you used the `jupyter lab` command.
  
-Look for the `server.ipynb` file and open it to begin the ungraded lab.
+Look for the `server.ipynb` file and open it to begin to run it.
 
 To stop jupyter lab once you are done with the lab just press `Ctrl + C` twice.
  
