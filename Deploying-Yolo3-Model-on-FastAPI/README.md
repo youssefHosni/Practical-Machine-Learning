@@ -48,8 +48,7 @@ After successfully creating the environment, you need to activate it by issuing 
 conda activate deployment-tutorial
 ```
  
-At this point, you will do all your libraries installation and work in this environment. So, whenever working on this ungraded lab, check the mlep-w1-lab environment is active.
-
+At this point, you will do all your libraries installation and work in this environment. 
  
 ### 2. Installing dependencies using PIP 
  
