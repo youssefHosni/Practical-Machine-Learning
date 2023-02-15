@@ -1,13 +1,13 @@
 # Ungraded Lab - Deploying a Deep Learning model
  
 ## Introduction
-Welcome to the first week of Machine Learning Engineering for Production Course 1. During this ungraded lab you will go through the process of deploying an already trained Deep Learning model. To do so, we will take advantage of the user-friendly library fastAPI that provides a nice REST API framework.
+During this code you will go through the process of deploying an already trained Deep Learning model. To do so, we will take advantage of the user-friendly library fastAPI that provides a nice REST API framework.
  
 This tutorial is specifically designed to run locally on your machine. This can be done via 2 methods:  using `Python Virtual Environments` or using `Docker`. 
  
 Both approaches should yield the same result. If you already have a conda installation available on your computer, we recommend  that you use the virtual environment method. If this is not the case, choose the Docker method as it is easier to set up.
  
-As a general note, the commands in this tutorial are meant to be run within a terminal. To begin you need to **clone this repo in your local filesystem and `cd` to the week1-ungraded-lab directory**.
+As a general note, the commands in this tutorial are meant to be run within a terminal. To begin you need to **clone this repo in your local filesystem and `cd` to the deployment_tutorial directory**.
 
 To clone the repo use this command:
 ```bash
@@ -23,26 +23,14 @@ If you are unsure which method to use for cloning, use the first one.
 
 The `cd` command allows you to change directories. Assuming you are at the directory where you issued the cloning command, type the following on your terminal.
 ```bash
-cd machine-learning-engineering-for-production-public/course1/week1-ungraded-lab
+cd working_directory/deployment_tutorial
 ```
-This will bring you to the `week1-ungraded-lab` directory. The `ls` command allows you to list the files and directories.
-Type `ls` and let's take a quick look at the content inside `week1-ungraded-lab` directory:
- 
-```
-.
-└── week1-ungraded-lab (this directory)
-    ├── images (includes some images from ImageNet)
-    ├── server.ipynb (Part 1 of the ungraded lab)
-    ├── client.ipynb (Part 2 of the ungraded lab)
-    └── requirements.txt (python dependencies)
-```
- 
  
 ## Method 1: Python Virtual Environment with Conda
  
 ### Prerequisites: Have [conda](https://docs.conda.io/en/latest/) installed on your local machine.
  
-You will use Conda as an environment management system so that all the dependencies you need for this ungraded lab are stored in an isolated environment.
+You will use Conda as an environment management system so that all the dependencies you need for this tutorial are stored in an isolated environment.
  
 Conda includes a lot of libraries so if you are only installing it to complete this lab , we suggest using [miniconda](https://docs.conda.io/en/latest/miniconda.html), which is a minimal version of conda.
  
@@ -51,18 +39,17 @@ Conda includes a lot of libraries so if you are only installing it to complete t
 Now we assume that you either successfully installed conda or that it was previously available in your system. The first step is  creating a new developing environment. Let's set a new environment with python 3.8 with this command:
  
 ```bash
-conda create --name mlep-w1-lab python=3.8
+conda create --name deployment-tutorial python=3.8
 ```
  
 After successfully creating the environment, you need to activate it by issuing this command:
  
 ```bash
-conda activate mlep-w1-lab
+conda activate deployment-tutorial
 ```
  
 At this point, you will do all your libraries installation and work in this environment. So, whenever working on this ungraded lab, check the mlep-w1-lab environment is active.
 
-**Note**: If you have a Mac M1 then read this [guide](./mac_m1.md) before doing the next steps or try the version of this lab that is hosted in Coursera.
  
 ### 2. Installing dependencies using PIP 
  
