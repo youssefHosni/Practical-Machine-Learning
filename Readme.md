@@ -1,5 +1,5 @@
 # Practical Machine Learning 
-Practical machine learning notebook & articles covers the machine learning project life cycle.
+Practical machine learning notebook & articles covers the machine learning life cycle.
 
 ## Overview of Machine Learning Project Life Cycle ##
 * [End-to-End Machine Learning Workflow [Part 1]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-1-b5aa2e3d30e2?sk=2c0fa63e0cd3e09bc9329c1f20c63f1f)
