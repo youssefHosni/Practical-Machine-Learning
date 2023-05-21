@@ -6,6 +6,7 @@ Practical machine learning notebook & articles covers the machine learning life 
 * [End-to-End Machine Learning Workflow [Part 2]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-2-e7b6d3fb1d53?sk=06cde2cb868ac46a1dd1e71064b76b05)
 
 ## Setting Performance Baseline & Success Metrics
+* [How Data Science is Helping Businesses Stay Ahead of the Game: 9 Inspiring Use Cases](https://medium.com/geekculture/how-data-science-is-helping-businesses-stay-ahead-of-the-game-9-inspiring-use-cases-9eba7b14c262?sk=f918caf0f682f797b9f6b2f734cf7d73)
 * [How to Set Performance Baseline for Your Machine Learning Project Effectively?](https://pub.towardsai.net/how-to-set-performance-baseline-for-your-machine-learning-project-effectively-5be7cffdd68d?sk=51fe014a4f7c7831b2163e4b972477f1)
 
 ## Data Collection 
@@ -20,7 +21,6 @@ Practical machine learning notebook & articles covers the machine learning life 
 ### Supervised Machine Learning Modeling
 
 * [Practical Guide to Support Vector Machine in Python]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Practical%20Guide%20to%20Support%20Vector%20Machines%20in%20Python%20.ipynb) | [Article](https://pub.towardsai.net/practical-guide-to-support-vector-machines-in-python-dc0e628d50bc?sk=3736c436ed9ec33011b453d852f53746)]
-
 * [Practical Guide to Boosting Algorithms In Machine Learning](https://pub.towardsai.net/practical-guide-to-boosting-algorithms-in-machine-learning-61c023107e12?sk=4924d002b480475afec71c900ab3b469) [[Code]() | [Article](https://pub.towardsai.net/practical-guide-to-boosting-algorithms-in-machine-learning-61c023107e12?sk=4924d002b480475afec71c900ab3b469)]
 
 ### Unsupervised Machine Learning Modeling
