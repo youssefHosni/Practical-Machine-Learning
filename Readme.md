@@ -1,5 +1,16 @@
 # Practical Machine Learning 
 Practical machine learning notebook & articles cover the machine learning life cycle.
+[![GitHub license](https://img.shields.io/github/license/youssefHosni/Practical-Machine-Learning.svg)](https://github.com/youssefHosni/Practical-Machine-Learning/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Practical-Machine-Learning.svg)](https://GitHub.com/youssefHosni/Practical-Machine-Learning/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Practical-Machine-Learning.svg)](https://GitHub.com/youssefHosni/Practical-Machine-Learning/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Practical-Machine-Learning.svg)](https://GitHub.com/youssefHosni/Practical-Machine-Learning/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Practical-Machine-Learning.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Practical-Machine-Learning/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Practical-Machine-Learning.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Practical-Machine-Learning/network/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Practical-Machine-Learning.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Practical-Machine-Learning/stargazers/)
+
+
 ![alt_text](https://github.com/youssefHosni/Practical-Machine-Learning/blob/main/ml.jpg)
 
 ## Overview of Machine Learning Project Life Cycle ##
