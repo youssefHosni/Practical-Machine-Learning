@@ -25,7 +25,7 @@ Practical machine learning notebook & articles cover the machine learning life c
 ## Data Collection 
 
 ## Data Preprocessing & Feature Engineering 
-* [How To Split Data Effectively for Your Data Science Project]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20To%20Split%20The%20Data%20Effectively%20for%20Your%20Data%20Science%20Project.ipynb) | [Article](https://pub.towardsai.net/how-to-split-the-data-effectively-for-your-data-science-project-a9cb6a387b70?sk=7036bbef95e24baeaa2f1a98afa33491) ]
+* [How To Split Data Effectively for Your Data Science Project](https://pub.towardsai.net/how-to-split-the-data-effectively-for-your-data-science-project-a9cb6a387b70?sk=7036bbef95e24baeaa2f1a98afa33491) [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20To%20Split%20The%20Data%20Effectively%20for%20Your%20Data%20Science%20Project.ipynb) | [Article](https://pub.towardsai.net/how-to-split-the-data-effectively-for-your-data-science-project-a9cb6a387b70?sk=7036bbef95e24baeaa2f1a98afa33491) ] | [Kaggle Notebpok](https://www.kaggle.com/code/youssef19/how-to-split-the-data-effectively)
 * [Six Reasons Why Your Model Gives Bad Results](https://medium.com/mlearning-ai/six-reasons-why-your-model-give-bad-results-db2804f0da0e?sk=144ae1fe14011ae3a7eb5e8bc0d1f599)
 
 ## Modeling 
