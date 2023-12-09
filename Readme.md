@@ -39,7 +39,7 @@ Practical machine learning notebook & articles cover the machine learning life c
 ### Unsupervised Machine Learning Modeling
 * [Overview of Unsupervised Machine Learning Tasks & Applications](https://pub.towardsai.net/overview-of-unsupervised-machine-learning-tasks-applications-139db2239e2c?sk=26aa82893548ddc3c2916d4ee3c91d65)
 * [Practical Guide to Dimesnioality Reduction in Python]() [[Code](https://github.com/youssefHosni/Practical-Guide-to-ML-DL-Concepts/blob/main/practical-guide-to-dimesnioality-reduction-in-pyth.ipynb) | [Article](https://medium.com/mlearning-ai/practical-guide-to-dimesnioality-reduction-in-python-9da6c84ad8ee?sk=ba37d536c5b52d79d7df19064639d4a4)]
-* [How to Find the Optimal Number of Clusters Effectively]() [ [Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20to%20Find%20the%20Optimal%20Number%20of%20Clusters%20Effectively.ipynb) | [Article](https://pub.towardsai.net/stop-using-elbow-diagram-to-find-best-k-value-and-use-this-instead-568b13d77561?sk=d9456c70a04d6d5b020da45dcad5024f) ]
+* [How to Find the Optimal Number of Clusters Effectively]() [ [Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/How%20to%20Find%20the%20Optimal%20Number%20of%20Clusters%20Effectively.ipynb) | [Article](https://pub.towardsai.net/stop-using-elbow-diagram-to-find-best-k-value-and-use-this-instead-568b13d77561?sk=d9456c70a04d6d5b020da45dcad5024f) | [Kaggle Notebook](https://www.kaggle.com/code/youssef19/finding-the-optimal-number-of-clusters-effectively) ]
 
 
 ### Deep Learning Modeling
