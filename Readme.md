@@ -33,7 +33,7 @@ Practical machine learning notebook & articles cover the machine learning life c
 
 ### Supervised Machine Learning Modeling
 
-* [Practical Guide to Support Vector Machine in Python]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Practical%20Guide%20to%20Support%20Vector%20Machines%20in%20Python%20.ipynb) | [Article](https://pub.towardsai.net/practical-guide-to-support-vector-machines-in-python-dc0e628d50bc?sk=3736c436ed9ec33011b453d852f53746)]
+* [Practical Guide to Support Vector Machine in Python](https://pub.towardsai.net/practical-guide-to-support-vector-machines-in-python-dc0e628d50bc?sk=3736c436ed9ec33011b453d852f53746) [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Practical%20Guide%20to%20Support%20Vector%20Machines%20in%20Python%20.ipynb) | [Article](https://pub.towardsai.net/practical-guide-to-support-vector-machines-in-python-dc0e628d50bc?sk=3736c436ed9ec33011b453d852f53746)]
 * [Practical Guide to Boosting Algorithms In Machine Learning](https://pub.towardsai.net/practical-guide-to-boosting-algorithms-in-machine-learning-61c023107e12?sk=4924d002b480475afec71c900ab3b469) [[Code]() | [Article](https://pub.towardsai.net/practical-guide-to-boosting-algorithms-in-machine-learning-61c023107e12?sk=4924d002b480475afec71c900ab3b469)]
 
 ### Unsupervised Machine Learning Modeling
@@ -44,7 +44,7 @@ Practical machine learning notebook & articles cover the machine learning life c
 
 ### Deep Learning Modeling
 * [Maximizing the Impact of Data Augmentation: Effective Techniques and Best Practices](https://pub.towardsai.net/maximizing-the-impact-of-data-augmentation-effective-techniques-and-best-practices-c4cad9cd16e4?sk=c91290c8d4d69ad8df051818262ad015)
-* [Building Complex Models Using Keras Functional API]() [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Building_Complex_Deep_Learning_Models_Using_Keras_Functional_API.ipynb) | [Article](https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4?sk=85e11759a720c074c7bab9cc1b5d1d06)]
+* [Building Complex Models Using Keras Functional API](https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4?sk=85e11759a720c074c7bab9cc1b5d1d06) [[Code](https://github.com/youssefHosni/Machine-Learning-Practical-Guide/blob/main/Building_Complex_Deep_Learning_Models_Using_Keras_Functional_API.ipynb) | [Article](https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4?sk=85e11759a720c074c7bab9cc1b5d1d06) | [Kaggle Notebook]()]
 * [A Quick Setup for Neural Networks Hyperparameters for Best Results](https://pub.towardsai.net/a-quick-setup-for-neural-networks-hyperparameters-for-best-results-3a5a446abb3a?sk=9c9f6bf03b6895dcd0112a34158a2785)
 * [Building A Recurrent Neural Network From Scratch In Python](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f?sk=3fcfd18bbb18fd280826c64b547f130e)
 
